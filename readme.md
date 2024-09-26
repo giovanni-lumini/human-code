@@ -1,0 +1,39 @@
+- Cerco il telecomando
+- SE non lo trovo
+   - impreco
+   - ALTRIMENTI continuo a cercare
+- FINCHE' non lo trovo
+- Prendo il telecomando
+- ci siediamo sul divano
+- Accendiamo la televisione
+- SE non funziona
+   - cambio le batterie che ho in scorta
+   - ALTRIMENTI usiamo il telefono
+- SE ho rinnovato l'abbonamento:
+   - guardiamo netflix
+   - ALTRIMENTI usiamo l'account di qualcun altro
+- SE nessuno ha pagato netflix
+   - guardiamo StreamingCommunity
+- Controlliamo quanto tempo abbiamo/ quanto sonno abbiamo
+- SE abbiamo serie/film in sospeso
+   - continuiamo a guardarle
+   - ALTRIMENTI iniziamo qualcosa di nuovo
+- SE siamo indecisi
+   - litighiamo
+   - ALTRIMENTI guardiamo nei consigliati
+- FINCHE' non scegliamo qualcosa
+   - scegliamo cosa guardare
+- Una volta trovato qualcosa di interessante guardiamo il trailer
+- SE ci piace
+   - la iniziamo
+   - ALTRIMENTI litighiamo e cambiamo
+- Iniziamo la serie tv/film
+- SE ci piace
+   - continuiamo
+   - ALTRIMENTI cambiamo serie/film
+- SE qualcuno deve andare in bagno
+    - mettiamo in pausa l'episodio e aspettiamo
+    - ALTRIMENTI continuiamo l'episodio e se la tengono IN SILENZIO!
+- SE abbiamo sonno
+    - spegniamo Netflix e ognuno a casa sua
+    - ALTRIMENTI continuiamo la serata
